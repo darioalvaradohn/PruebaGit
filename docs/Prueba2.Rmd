@@ -10,7 +10,7 @@ header-includes:
 ---
 
 <div style="display:flex; align-items:center;">
-  <h1 style="margin:0;">Ocupancia: Binomial</h1>
+  <h1 style="margin:0;">Prueba1</h1>
   <img src="Imagenes/HNBI_LOGO2.jpeg" alt="Texto alternativo de la imagen" style="width:100px; margin-left:20px;">
 </div>
 
