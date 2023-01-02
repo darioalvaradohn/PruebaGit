@@ -10,5 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 [Prueba1](Prueba1.html)
+[Prueba2](Prueba2.html)
 
 Sitio web: [Curso oficial](https://www.hnbiology.org/analisisestadisticoecologia)
