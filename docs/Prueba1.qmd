@@ -16,11 +16,20 @@ header-includes:
 
 Prueba
 
-### Titulo{.tabset .tabset-pills}
+::: {.tabset .tabset-pills}
+::: {.tab}
+
+### Titulo
+
+:::
+:::{.tab}
 
 #### Sub1
 
 Text
+
+:::
+:::
 
 #### Sub2
 
